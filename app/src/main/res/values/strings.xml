@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HiltDemo</string>
+    <string name="err_username_empty">Please enter user name</string>
+</resources>
